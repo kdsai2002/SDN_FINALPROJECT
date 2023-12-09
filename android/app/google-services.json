@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550820783653",
+    "project_id": "habitrack-eafb1",
+    "storage_bucket": "habitrack-eafb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550820783653:android:af5035768a3a0571e99c5e",
+        "android_client_info": {
+          "package_name": "com.example.habittrackertute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY0hDc3izFDbe_aFGQX9DTnpjxKw62cFe"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
